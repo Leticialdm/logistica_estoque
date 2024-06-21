@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6631950e4f4d9cf7b62e64aa"
+  },
+  "produto_id": {
+    "$oid": "663199ff4f4d9cf7b62e64c2"
+  },
+  "quantidade": 13,
+  "preco_unitario": 4.5,
+  "data_compra": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  }
+}]

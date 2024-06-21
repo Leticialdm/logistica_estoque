@@ -1,0 +1,885 @@
+[{
+  "_id": {
+    "$oid": "663199ff4f4d9cf7b62e64c2"
+  },
+  "nome": "Arroz Branco",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "LB01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 8.051,
+  "data_ultima_compra": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "estoque_atual": 1789,
+  "preco_unitario": 4.5
+},
+{
+  "_id": {
+    "$oid": "6649024a9e0752da9eacea46"
+  },
+  "nome": "Arroz Parboilizado",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-04-13T00:00:00.000Z"
+  },
+  "lote": "LA01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 5.851,
+  "data_ultima_compra": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 100,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "estoque_atual": 800,
+  "preco_unitario": 6.5
+},
+{
+  "_id": {
+    "$oid": "664903269e0752da9eacea4f"
+  },
+  "nome": "Arroz Oriental",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-04-13T00:00:00.000Z"
+  },
+  "lote": "LA01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 7.645,
+  "data_ultima_compra": {
+    "$date": "2023-05-10T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 100,
+  "quantidade_estoque_maximo": 800,
+  "data_ultima_movimentacao": {
+    "$date": "2023-05-10T00:00:00.000Z"
+  },
+  "estoque_atual": 500,
+  " preco_unitario": 15.29
+},
+{
+  "_id": {
+    "$oid": "664903829e0752da9eacea50"
+  },
+  "nome": "Arroz Integral",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "LB01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 5460,
+  "data_ultima_compra": {
+    "$date": "2023-07-28T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 50,
+  "quantidade_estoque_maximo": 500,
+  "data_ultima_movimentacao": {
+    "$date": "2023-07-28T00:00:00.000Z"
+  },
+  "estoque_atual": 1050,
+  "preco_unitario": 5.2
+},
+{
+  "_id": {
+    "$oid": "664953a49e0752da9eacea71"
+  },
+  "nome": "Feijão Carioca",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "FJC01",
+  "escaninho_id": {
+    "$oid": "664900619e0752da9eacea3e"
+  },
+  "preco_medio_custo": 7.192,
+  "data_ultima_compra": {
+    "$date": "2023-04-24T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 200,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-04-24T00:00:00.000Z"
+  },
+  "estoque_atual": 800,
+  "preco_unitario": 8.99
+},
+{
+  "_id": {
+    "$oid": "6649549c9e0752da9eacea74"
+  },
+  "nome": "Feijão Preto",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "FJP01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 6.435,
+  "data_ultima_compra": {
+    "$date": "2023-07-10T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 200,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-07-10T00:00:00.000Z"
+  },
+  "estoque_atual": 758,
+  "preco_unitario": 8.49
+},
+{
+  "_id": {
+    "$oid": "664954a49e0752da9eacea75"
+  },
+  "nome": "Sabão em Pó ASSIM 5kg",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "SBP01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 3.408,
+  "data_ultima_compra": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 200,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "estoque_atual": 149,
+  "preco_unitario": 22.87
+},
+{
+  "_id": {
+    "$oid": "664956829e0752da9eacea79"
+  },
+  "nome": "Cápsula Pods",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "CPP01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 49.584,
+  "data_ultima_compra": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 100,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "estoque_atual": 800,
+  "preco_unitario": 61.98
+},
+{
+  "_id": {
+    "$oid": "664957569e0752da9eacea7a"
+  },
+  "nome": "Amaciante Ype",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "AMY01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 18.802,
+  "data_ultima_compra": {
+    "$date": "2023-11-10T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 800,
+  "quantidade_estoque_maximo": 2000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-11-10T00:00:00.000Z"
+  },
+  "estoque_atual": 756,
+  "preco_unitario": 24.87
+},
+{
+  "_id": {
+    "$oid": "6649587c9e0752da9eacea7b"
+  },
+  "nome": "Barra de Sabão",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "BS01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 16.208,
+  "data_ultima_compra": {
+    "$date": "2023-01-11T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 4000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-01-11T00:00:00.000Z"
+  },
+  "estoque_atual": 954,
+  "preco_unitario": 16.99
+},
+{
+  "_id": {
+    "$oid": "66495a8b9e0752da9eacea81"
+  },
+  "nome": "Energético Monster",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "EM01",
+  "escaninho_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "preco_medio_custo": 75.9,
+  "data_ultima_compra": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 3000,
+  "quantidade_estoque_maximo": 8000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-03-30T00:00:00.000Z"
+  },
+  "estoque_atual": 10000,
+  "preco_unitario": 7.59
+},
+{
+  "_id": {
+    "$oid": "66495bef9e0752da9eacea82"
+  },
+  "nome": "Energético Red Bull",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "ERB01",
+  "escaninho_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "preco_medio_custo": 80.19,
+  "data_ultima_compra": {
+    "$date": "2024-04-19T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 3000,
+  "quantidade_estoque_maximo": 8000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-04-19T00:00:00.000Z"
+  },
+  "estoque_atual": 9000,
+  "preco_unitario": 8.91
+},
+{
+  "_id": {
+    "$oid": "66495c009e0752da9eacea83"
+  },
+  "nome": "H2O Limoneto",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "HLB01",
+  "escaninho_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "preco_medio_custo": 65.372,
+  "data_ultima_compra": {
+    "$date": "2024-04-29T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 5000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-04-29T00:00:00.000Z"
+  },
+  "estoque_atual": 8500,
+  "preco_unitario": 7.69
+},
+{
+  "_id": {
+    "$oid": "66495d3a9e0752da9eacea84"
+  },
+  "nome": "Água c/ Gás",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "AG01",
+  "escaninho_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "preco_medio_custo": 30.75,
+  "data_ultima_compra": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 5000,
+  "quantidade_estoque_maximo": 10000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "estoque_atual": 15000,
+  "preco_unitario": 2.05
+},
+{
+  "_id": {
+    "$oid": "66498f359e0752da9eacea8a"
+  },
+  "nome": "Milho de Pipoca",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "ML01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 1.623,
+  "data_ultima_compra": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 500,
+  "quantidade_estoque_maximo": 2000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "estoque_atual": 107,
+  "preco_unitario": 15.92
+},
+{
+  "_id": {
+    "$oid": "66498faa9e0752da9eacea8b"
+  },
+  "nome": "Lentilha",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "L01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 5.546,
+  "data_ultima_compra": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "estoque_atual": 805,
+  "preco_unitario": 6.89
+},
+{
+  "_id": {
+    "$oid": "6649905a9e0752da9eacea8c"
+  },
+  "nome": "Quinoa",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "QN01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 23.984,
+  "data_ultima_compra": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  },
+  "estoque_atual": 987,
+  "preco_unitario": 24.3
+},
+{
+  "_id": {
+    "$oid": "664990f39e0752da9eacea8d"
+  },
+  "nome": "Grão de Bico",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "GB01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 16.339,
+  "data_ultima_compra": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1500,
+  "quantidade_estoque_maximo": 3500,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "estoque_atual": 1499,
+  "preco_unitario": 14.9
+},
+{
+  "_id": {
+    "$oid": "664991969e0752da9eacea8e"
+  },
+  "nome": "Canjica Amarela",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "CA01",
+  "escaninho_id": {
+    "$oid": "6648fe669e0752da9eacea37"
+  },
+  "preco_medio_custo": 15.765,
+  "data_ultima_compra": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 2000,
+  "quantidade_estoque_maximo": 6000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "estoque_atual": 1857,
+  "preco_unitario": 8.49
+},
+{
+  "_id": {
+    "$oid": "6649941e9e0752da9eacea8f"
+  },
+  "nome": "Dolly Guaraná",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "HLB01",
+  "escaninho_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "preco_medio_custo": 2.048,
+  "data_ultima_compra": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 500,
+  "quantidade_estoque_maximo": 1520,
+  "data_ultima_movimentacao": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "estoque_atual": 320,
+  "preco_unitario": 6.4
+},
+{
+  "_id": {
+    "$oid": "664994b39e0752da9eacea90"
+  },
+  "nome": "Álcool 70%",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "VLP01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 18.433,
+  "data_ultima_compra": {
+    "$date": "2023-08-23T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 500,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-08-23T00:00:00.000Z"
+  },
+  "estoque_atual": 1500,
+  "preco_unitario": 12.29
+},
+{
+  "_id": {
+    "$oid": "664996089e0752da9eacea91"
+  },
+  "nome": "Veja Limpeza Pesada",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "VLY01",
+  "escaninho_id": {
+    "$oid": "6648ffe09e0752da9eacea3a"
+  },
+  "preco_medio_custo": 24.625,
+  "data_ultima_compra": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 800,
+  "quantidade_estoque_maximo": 2400,
+  "data_ultima_movimentacao": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "estoque_atual": 2500,
+  "preco_unitario": 9.85
+},
+{
+  "_id": {
+    "$oid": "664a2b3c267b142978b7dc89"
+  },
+  "nome": "Feijão de Corda",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-01-03T00:00:00.000Z"
+  },
+  "lote": "FC01",
+  "escaninho_id": {
+    "$oid": "664900619e0752da9eacea3e"
+  },
+  "preco_medio_custo": 14.467,
+  "data_ultima_compra": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 400,
+  "quantidade_estoque_maximo": 2000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "estoque_atual": 907,
+  "preco_unitario": 15.95
+},
+{
+  "_id": {
+    "$oid": "664a4417267b142978b7dc90"
+  },
+  "nome": "Pasta Dental Colgate",
+  "data_fabricacao": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2026-04-13T00:00:00.000Z"
+  },
+  "lote": "LA01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6479"
+  },
+  "preco_medio_custo": 79.901,
+  "data_ultima_compra": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 7000,
+  "quantidade_estoque_maximo": 12000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "estoque_atual": 10000,
+  " preco_unitario": 7.99
+},
+{
+  "_id": {
+    "$oid": "664a44da267b142978b7dc91"
+  },
+  "nome": "Fio Dental",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "FD01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6479"
+  },
+  "preco_medio_custo": 11.242,
+  "data_ultima_compra": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1100,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "estoque_atual": 987,
+  "preco_unitario": 12.79
+},
+{
+  "_id": {
+    "$oid": "664a457c267b142978b7dc92"
+  },
+  "nome": "Escova Dental Colgate",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "FD01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6479"
+  },
+  "preco_medio_custo": 5.486,
+  "data_ultima_compra": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "estoque_atual": 523,
+  "preco_unitario": 10.49
+},
+{
+  "_id": {
+    "$oid": "664a47ee267b142978b7dc95"
+  },
+  "nome": "Galaxy Buds",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "BB01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6483"
+  },
+  "preco_medio_custo": 1.2565,
+  "data_ultima_compra": {
+    "$date": "2024-01-27T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1000,
+  "quantidade_estoque_maximo": 3000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-01-27T00:00:00.000Z"
+  },
+  "estoque_atual": 3500,
+  "preco_unitario": 3590
+},
+{
+  "_id": {
+    "$oid": "664a4897267b142978b7dc96"
+  },
+  "nome": "AirPods G3",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "AP01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6483"
+  },
+  "preco_medio_custo": 751.005,
+  "data_ultima_compra": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 200,
+  "quantidade_estoque_maximo": 450,
+  "data_ultima_movimentacao": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "estoque_atual": 500,
+  "preco_unitario": 1.5
+},
+{
+  "_id": {
+    "$oid": "664a4b9f267b142978b7dc97"
+  },
+  "nome": "Iphone 11, 64gb",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "APP01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6483"
+  },
+  "preco_medio_custo": 1.3945,
+  "data_ultima_compra": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 400,
+  "quantidade_estoque_maximo": 650,
+  "data_ultima_movimentacao": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "estoque_atual": 500,
+  "preco_unitario": 2.789
+},
+{
+  "_id": {
+    "$oid": "664a4c76267b142978b7dc98"
+  },
+  "nome": "Iphone 14, 128gb",
+  "data_fabricacao": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "lote": "APP01",
+  "escaninho_id": {
+    "$oid": "6631831b4f4d9cf7b62e6483"
+  },
+  "preco_medio_custo": 3.899001,
+  "data_ultima_compra": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1100,
+  "quantidade_estoque_maximo": 8000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "estoque_atual": 1000,
+  "preco_unitario": 3.899
+},
+{
+  "_id": {
+    "$oid": "664a67fb8a6db631a73f61dd"
+  },
+  "nome": "l",
+  "data_fabricacao": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "lote": "d",
+  "escaninho_id": "566",
+  "preco_medio_custo": 5200,
+  "data_ultima_compra": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 520,
+  "quantidade_estoque_maximo": 1000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "estoque_atual": 520,
+  "preco_unitario": 12.9
+},
+{
+  "_id": {
+    "$oid": "664a7a7234771244839c0b17"
+  },
+  "nome": "lalala",
+  "data_fabricacao": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "lote": "45",
+  "escaninho_id": "123456789",
+  "preco_medio_custo": 5,
+  "data_ultima_compra": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 1555,
+  "quantidade_estoque_maximo": 10000,
+  "data_ultima_movimentacao": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "estoque_atual": 1600,
+  "preco_unitario": 1220
+},
+{
+  "_id": {
+    "$oid": "664a8e26cd1eb8f40128a67f"
+  },
+  "nome": "alala",
+  "data_fabricacao": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "data_validade": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "lote": "45",
+  "escaninho_id": "456789",
+  "preco_medio_custo": 20000,
+  "data_ultima_compra": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "quantidade_estoque_minimo": 2000,
+  "quantidade_estoque_maximo": 5000,
+  "data_ultima_movimentacao": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "estoque_atual": 1000,
+  "preco_unitario": 2412
+}]

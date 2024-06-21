@@ -1,0 +1,22 @@
+este é um sistema de logistica de estoque que gera relatórios 
+referentes a um armazém de estoque e de vendas de produtos 
+acessando dados inseridos previamente no mongodb compass, 
+nome da database 'Logostica_de_Estoque', nome das coleções
+'avenidas', 'prateleiras', 'escaninhos', 'produtos' e 'compras'
+também é possível realizar o CRUD para inserir, visualizar,
+atualizar e deletar os dados do mongoDB compass.
+
+eu desenvolvi este projeto para estudar e aprender a manipular dados
+de um banco de dados NoSQL.
+
+para rodar a aplicação basta dar run no arquivo 'menu.py'
+para tornar o arquivo executável basta executar os comandos 
+(no terminal do visual studio) que citarei a baixo:
+1º comando: pip install pymongo
+2º comando: pip install colorama
+3º comando: pip install pyinstaller
+4º comando: pyinstaller --onefile menu.py
+
+após a execução dos quatro comandos a cima, basta entrar no 
+'explorador de arquivos' para localizar a pasta que se encontra o projeto,
+em seguida, execute o arquivo dist.

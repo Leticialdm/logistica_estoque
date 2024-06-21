@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e646c"
+  },
+  "nome": "Avenida 1",
+  "descricao": "Avenida principal de alimentos"
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e646d"
+  },
+  "nome": "Avenida 2",
+  "descricao": "Avenida de produtos de limpeza"
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e646e"
+  },
+  "nome": "Avenida 3",
+  "descricao": "Avenida de produtos de higiene pessoal"
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e646f"
+  },
+  "nome": "Avenida 4",
+  "descricao": "Avenida de produtos eletrônicos"
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6470"
+  },
+  "nome": "Avenida 5",
+  "descricao": "Avenida de bebidas"
+}]

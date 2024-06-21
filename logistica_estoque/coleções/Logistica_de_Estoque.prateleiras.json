@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6471"
+  },
+  "nome": "Prateleira 1, AVENIDA 1",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646c"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6648fe669e0752da9eacea37"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6475"
+  },
+  "nome": "Prateleira 1, AVENIDA 2",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646d"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6476"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6477"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6478"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6479"
+  },
+  "nome": "Prateleira 1, AVENIDA 3",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646e"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6480"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6481"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6482"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6483"
+  },
+  "nome": "Prateleira 1, AVENIDA 4",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646f"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6484"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6485"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6486"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631831b4f4d9cf7b62e6487"
+  },
+  "nome": "Prateleira 1, AVENIDA 5",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e6470"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663191d34f4d9cf7b62e6499"
+  },
+  "nome": "Prateleira 2, AVENIDA 1",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646c"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663192484f4d9cf7b62e64a2"
+  },
+  "nome": "Prateleira 2, AVENIDA 2",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646d"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663192924f4d9cf7b62e64a3"
+  },
+  "nome": "Prateleira 2, AVENIDA 3",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646e"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663192e54f4d9cf7b62e64a4"
+  },
+  "nome": "Prateleira 2, AVENIDA 4",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646f"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631938b4f4d9cf7b62e64a5"
+  },
+  "nome": "Prateleira 2, AVENIDA 5",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e6470"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663193b34f4d9cf7b62e64a6"
+  },
+  "nome": "Prateleira 3, AVENIDA 1",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646c"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663194654f4d9cf7b62e64a7"
+  },
+  "nome": "Prateleira 3, AVENIDA 2",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646d"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631948f4f4d9cf7b62e64a8"
+  },
+  "nome": "Prateleira 3, AVENIDA 3",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646e"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663194d74f4d9cf7b62e64a9"
+  },
+  "nome": "Prateleira 3, AVENIDA 4",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e646f"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6631950e4f4d9cf7b62e64aa"
+  },
+  "nome": "Prateleira 3, AVENIDA 5",
+  "avenida_id": {
+    "$oid": "6631831b4f4d9cf7b62e6470"
+  },
+  "escaninhos": [
+    {
+      "$oid": "6631831b4f4d9cf7b62e6488"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6489"
+    },
+    {
+      "$oid": "6631831b4f4d9cf7b62e6490"
+    }
+  ]
+}]
